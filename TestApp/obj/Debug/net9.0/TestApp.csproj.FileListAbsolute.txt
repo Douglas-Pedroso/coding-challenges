@@ -1,0 +1,14 @@
+C:\Users\tragi\Desktop\coding-challenges\TestApp\bin\Debug\net9.0\TestApp.exe
+C:\Users\tragi\Desktop\coding-challenges\TestApp\bin\Debug\net9.0\TestApp.deps.json
+C:\Users\tragi\Desktop\coding-challenges\TestApp\bin\Debug\net9.0\TestApp.runtimeconfig.json
+C:\Users\tragi\Desktop\coding-challenges\TestApp\bin\Debug\net9.0\TestApp.dll
+C:\Users\tragi\Desktop\coding-challenges\TestApp\bin\Debug\net9.0\TestApp.pdb
+C:\Users\tragi\Desktop\coding-challenges\TestApp\obj\Debug\net9.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tragi\Desktop\coding-challenges\TestApp\obj\Debug\net9.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\tragi\Desktop\coding-challenges\TestApp\obj\Debug\net9.0\TestApp.AssemblyInfo.cs
+C:\Users\tragi\Desktop\coding-challenges\TestApp\obj\Debug\net9.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\tragi\Desktop\coding-challenges\TestApp\obj\Debug\net9.0\TestApp.dll
+C:\Users\tragi\Desktop\coding-challenges\TestApp\obj\Debug\net9.0\refint\TestApp.dll
+C:\Users\tragi\Desktop\coding-challenges\TestApp\obj\Debug\net9.0\TestApp.pdb
+C:\Users\tragi\Desktop\coding-challenges\TestApp\obj\Debug\net9.0\TestApp.genruntimeconfig.cache
+C:\Users\tragi\Desktop\coding-challenges\TestApp\obj\Debug\net9.0\ref\TestApp.dll
